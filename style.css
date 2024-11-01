@@ -11,7 +11,7 @@ html {
 }
 
 body {
-    background: url(/img/bg.avif);
+    background: url(bg.avif);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
